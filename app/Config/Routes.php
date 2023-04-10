@@ -34,6 +34,7 @@ $routes->setAutoRoute(true);
 $routes->get('/penjumlahan/(:num)/(:num)', 'Latihan1::penjumlahan/$1/$2', [
     'filter' => 'auth',
     'model_latihan1' => new \App\Models\Model_latihan1(),
+
 ]);
 
 
