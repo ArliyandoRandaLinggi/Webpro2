@@ -11,7 +11,8 @@
 <body>
     <h1>Perkenalkan<p>Nama Saya Imam Nawawi
             Saya tinggal di daerah Ciputat
-            olahraga yang saya sukai adalah bulutangkis</p>
+            olahraga yang saya sukai adalah bulutangkis
+        </p>
 
 
     </h1>
