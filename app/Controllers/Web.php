@@ -7,6 +7,7 @@ class Web extends BaseController
     protected $helpers = ['url'];
 
     public function index()
+
     {
         $data['judul'] = "Halaman Depan";
         return view('v_header', $data) .
