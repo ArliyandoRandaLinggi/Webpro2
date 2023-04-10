@@ -6,7 +6,7 @@ class Matakuliah extends BaseController
 {
     public function index()
     {
-        return view('view-form-matakuliah ');
+        return view('view-form-matakuliah');
     }
 
     public function cetak()
