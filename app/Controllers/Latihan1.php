@@ -8,7 +8,7 @@ class Latihan1 extends BaseController
 {
     public function index()
     {
-        echo "Selamat Datang Liyan,  selamat belajar Web Programming liyan ";
+        echo "Selamat Datang Liyan,  selamat belajar Web Programming Liyan";
     }
     public function penjumlahan($n1, $n2)
     {
